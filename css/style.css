@@ -5,6 +5,10 @@ body {
     background-image: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png")
 }
 
+#name {
+    font-size: 28px;
+}
+
 .top-container {
     display:flex;
     flex-direction: column;
@@ -26,7 +30,7 @@ body {
 .right-container{
     font-size: 
     display: flex;
-    background-color:;
+
     text-align: left;
     flex-direction: column;
     flex-wrap: wrap;
@@ -42,5 +46,9 @@ body {
 img {
     border-radius: 50%;
     border: 5px solid #555;
+}
+
+#powerstats {
+    font-size: 24px;
 }
 
