@@ -2,6 +2,7 @@ body {
     color: #40514e;
     margin: 0;
     font-family: "Merriweather Sans";
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png")
     
 }
 
@@ -14,7 +15,7 @@ body {
 .left-container {
     text-align: left;
     flex-wrap: wrap;
-    flex-direction: column;
+    flex-direction: row;
     align-content: flex-start;
     padding: 50px;
     margin-left: 60px;
