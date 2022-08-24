@@ -53,6 +53,9 @@ function handleGetData(event) {
             $speed.text(data.results[0].powerstats.speed)
             console.log(data.results[0].powerstats.strength)
             $strength.text(data.results[0].powerstats.strength)
+
+            $('main').append(`<img src='${data.results[0].image}' alt='${data.results[0].name}'/>`)
+            
         },
         function (error) {
             console.log("broken")
