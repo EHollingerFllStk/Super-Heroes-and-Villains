@@ -1,17 +1,43 @@
 body {
     color: #40514e;
     margin: 0;
-    
     font-family: "Merriweather Sans";
 }
+.big-container {  display: grid;
+    grid-template-columns: 2fr 2fr 0fr 0fr;
+    grid-template-rows: 3fr 1fr 1fr 0fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      ". . . ."
+      ". . . ."
+      ". . . ."
+      ". . . .";
+  }
 
-
-.middle-container{
-    background-color: blue;
-    text-align: left;
+.top-container {
+    display:flex;
     flex-direction: column;
-    align-content: left;
+    text-align: center;
+}
+
+.middle-container {
+    text-align: left;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: flex-start;
     padding: 50px;
+}
+
+.bottom-container{
+    display: flex;
+    background-color: pink;
+    text-align: right;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    padding: 50px;
+    width: 70%;
 }
 
 img {
