@@ -18,6 +18,7 @@ const $intelligence = $('#intelligence')
 const $power = $('#power')
 const $speed = $('#speed')
 const $strength = $('#strength')
+const $image = $('#target')
 
 const $form = $('form')
 const $input = $('input[type="text"]')
@@ -53,9 +54,8 @@ function handleGetData(event) {
             $speed.text(data.results[0].powerstats.speed)
             console.log(data.results[0].powerstats.strength)
             $strength.text(data.results[0].powerstats.strength)
-
-            $('main').append(`<img src='${data.results[0].image}' alt='${data.results[0].name}'/>`)
-            
+            $image.attr("src", data.results[0].image["url"])
+            $input.val()
         },
         function (error) {
             console.log("broken")

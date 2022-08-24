@@ -1,3 +1,10 @@
 /* body {
     background-color: blue;
 } */
+
+.container{
+    background-color: blue;
+    
+    flex-direction: column;
+    align-content: center;
+}
