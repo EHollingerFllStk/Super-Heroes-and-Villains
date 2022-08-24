@@ -13,6 +13,8 @@ input {
     font-size: 28px;
 }
 
+
+
 .top-container {
     display:flex;
     flex-direction: column;
@@ -28,13 +30,11 @@ input {
     margin-left: 60px;
     margin-right: 500px;
     max-width:500px;
-
 }
 
 .right-container{
-    font-size: 
+    font-size: 28px;
     display: flex;
-
     text-align: left;
     flex-direction: column;
     flex-wrap: wrap;
@@ -43,8 +43,8 @@ input {
     max-width: 300px;
     margin: auto;
     position: absolute;
-    top: 300px;
-    right: 350px;
+    top: 180px;
+    right: 200px;
 }
 
 img {
@@ -59,3 +59,19 @@ img {
 #label {
     margin-right: 15px;
 }
+@media only screen and (max-width: 1100px) {
+    body {
+      flex-direction: column;
+      display: flex;
+      justify-content: center;
+      margin: auto;
+    }
+
+    .right-container {
+        display:flex;
+        justify-content: center;
+        position: relative;
+        padding: 0;
+        margin: -200px 0 0 600px;
+    }
+  }
