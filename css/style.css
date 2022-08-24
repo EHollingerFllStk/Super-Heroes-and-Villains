@@ -5,6 +5,10 @@ body {
     background-image: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png")
 }
 
+input {
+    margin: 0 5px 0 5px;
+}
+
 #name {
     font-size: 28px;
 }
