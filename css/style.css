@@ -21,15 +21,16 @@ body {
     text-align: center;
 }
 
-.middle-container {
+.left-container {
     text-align: left;
     flex-wrap: wrap;
     flex-direction: column;
     align-content: flex-start;
     padding: 50px;
+    margin-left: 50px;
 }
 
-.bottom-container{
+.right-container{
     display: flex;
     background-color: pink;
     text-align: right;
