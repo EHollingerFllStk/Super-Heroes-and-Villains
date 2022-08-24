@@ -3,15 +3,7 @@ body {
     margin: 0;
     font-family: "Merriweather Sans";
     background-image: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png")
-    
 }
-
-label {
-    margin-right: 10px;
-}
- #label {
-    margin-left: 10px;
- }
 
 .top-container {
     display:flex;
