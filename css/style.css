@@ -2,18 +2,8 @@ body {
     color: #40514e;
     margin: 0;
     font-family: "Merriweather Sans";
+    
 }
-.big-container {  display: grid;
-    grid-template-columns: 2fr 2fr 0fr 0fr;
-    grid-template-rows: 3fr 1fr 1fr 0fr;
-    gap: 0px 0px;
-    grid-auto-flow: row;
-    grid-template-areas:
-      ". . . ."
-      ". . . ."
-      ". . . ."
-      ". . . .";
-  }
 
 .top-container {
     display:flex;
@@ -27,21 +17,26 @@ body {
     flex-direction: column;
     align-content: flex-start;
     padding: 50px;
-    margin-left: 50px;
+    margin-left: 60px;
+    margin-right: 500px;
+    max-width:500px;
+
 }
 
 .right-container{
     display: flex;
     background-color: pink;
-    text-align: right;
+    text-align: left;
     flex-direction: column;
     flex-wrap: wrap;
     align-content: flex-end;
     padding: 50px;
-    width: 70%;
+    max-width: 300px;
+    margin: auto;
 }
 
 img {
     border-radius: 50%;
     border: 5px solid #555;
 }
+
