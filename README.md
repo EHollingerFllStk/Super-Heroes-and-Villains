@@ -56,9 +56,14 @@ Image of site after call from API:
 ![Image of site after call from API](images/Screen%20Shot%202022-08-25%20at%2011.16.35%20AM.png)  
 <br>
 Image of image data from API:
-![Image of image data from API](images/Screen%20Shot%202022-08-25%20at%2011.19.52%20AM.png)35%20AM.png)  
+![Image of image data from API](images/Screen%20Shot%202022-08-25%20at%2011.19.52%20AM.png)
 <br>
 [Image of original wireframe](images/IMG_0584.heic)  
 <br>
 <br>
 
+## Future Enhancements ##
+    * Links to superhero API and other related sites  
+    * Improve responsiveness and dynamic design  
+    * Add more data from the API to the page  
+    * Have a landing page and then a link to another page that has the info  
