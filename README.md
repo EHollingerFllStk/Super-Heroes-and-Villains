@@ -59,7 +59,7 @@ Image of call data from API:
 Image of site after call from API:  
 ![Image of site after call from API](images/Screen%20Shot%202022-08-25%20at%2011.16.35%20AM.png)  
 ***
-Image of image data from API:
+Image data from API:
 ![Image data from API](images/Screen%20Shot%202022-08-25%20at%2011.19.52%20AM.png)
 ***
   
