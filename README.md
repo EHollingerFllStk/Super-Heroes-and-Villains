@@ -1,8 +1,8 @@
-# Heroes
+# Heroes #
 
 This app returns an image and powerstats of the selected Super Hero or Villain
 
-Background of Super Heroes
+## Background of Super Heroes ##
 
 -The term "Super Hero" is trademarked and owned by D comics and Marvel Comics
 -The World's Most Popular Superheroes:  
