@@ -27,3 +27,9 @@ The the term "super hero" was first used in "Hugo Hercules" in 1902 published in
 ![Screen Shot 2022-08-25 at 9 37 50 AM](https://user-images.githubusercontent.com/111613075/186679879-9edb7533-0df1-41dc-8887-c34163287858.png)
 
 https://fictionhorizon.com/who-was-the-first-superhero/
+
+First "comic" ever published: "Yellow Kid McFadden" (1897)
+
+![image](https://user-images.githubusercontent.com/111613075/186681968-9454841d-8377-4624-bf04-176f916ae7d5.png)
+
+https://www.illustrationhistory.org/genres/comics-comic-books
