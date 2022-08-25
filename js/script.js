@@ -5,7 +5,7 @@ console.log("connected")
 //////Assign Variables///////
 
 // const URL = 'https://superheroapi.com/api/10159819421940743/245/powerstats'
-
+    
 // console.log(URL)
 
 ///CACHED ELEMENTS/ELEMNTS REFERENCES////
@@ -23,11 +23,11 @@ const $image = $('#target')
 const $form = $('form')
 const $input = $('input[type="text"]')
 
-// ////EVENT LISTENERS////
+//////EVENT LISTENERS/////
 
 $form.on('submit', handleGetData)
 
-// ////FUNCTIONS////
+//////FUNCTIONS/////
 
 function handleGetData(event) {
     event.preventDefault()
@@ -52,6 +52,5 @@ function handleGetData(event) {
             console.log(error)
         }
     );
-    
 }
 
