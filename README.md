@@ -44,5 +44,13 @@ CSS
 
 ## Hall of Justice ##
 ![Image of input box and Submit](images/Screen%20Shot%202022-08-25%20at%2011.14.30%20AM.png)
+****
+
+[Image of Site before call to API](images/Screen%20Shot%202022-08-25%20at%2011.42.48%20AM.png%0D) [](README.md) 
+****
+
 ![Image of call data from API ](images/Screen%20Shot%202022-08-25%20at%2011.15.05%20AM.png)
-![Image of site](images/Screen%20Shot%202022-08-25%20at%2011.16.![Image of image data from API](images/Screen%20Shot%202022-08-25%20at%2011.19.52%20AM.png)35%20AM.png)
+****
+![Image of site after call from API](images/Screen%20Shot%202022-08-25%20at%2011.16.35%20AM.png)
+****
+![Image of image data from API](images/Screen%20Shot%202022-08-25%20at%2011.19.52%20AM.png)35%20AM.png)
