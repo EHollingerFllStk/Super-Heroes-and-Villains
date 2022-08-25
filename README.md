@@ -62,12 +62,12 @@ Image of site after call from API:
 Image of image data from API:
 ![Image data from API](images/Screen%20Shot%202022-08-25%20at%2011.19.52%20AM.png)
 ***
-
-***
   
 # Getting Started #  
 
 https://heroes-4pcn7a9kc-hollingere15-gmailcom.vercel.app/
+
+***
 
 ## Future Enhancements ##
     * Links to superhero API and other related sites 
