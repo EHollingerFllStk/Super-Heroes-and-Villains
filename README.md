@@ -45,30 +45,30 @@ CSS
 ## Hall of Justice ##
 Image of input box and Submit:  
 ![Image of input box and Submit](images/Screen%20Shot%202022-08-25%20at%2011.14.30%20AM.png)  
-<br>
+***
 Image of Site before call to API:  
 ![Image of Site before call to API](images/Screen%20Shot%202022-08-25%20at%2011.42.48%20AM.png)
-<br>
+***
 Image of call data from API:  
 ![Image of call data from API ](images/Screen%20Shot%202022-08-25%20at%2011.15.05%20AM.png)  
-<br>
+***
 Image of site after call from API:  
 ![Image of site after call from API](images/Screen%20Shot%202022-08-25%20at%2011.16.35%20AM.png)  
-<br>
+***
 Image of image data from API:
 ![Image of image data from API](images/Screen%20Shot%202022-08-25%20at%2011.19.52%20AM.png)
-<br>
+***
 Image of original wireframe:  
 ![Image of original wireframe](images/wireframe.jpeg)
-<br>
-<br>
+***
   
 # Getting Started #  
 
 https://heroes-4pcn7a9kc-hollingere15-gmailcom.vercel.app/
 
 ## Future Enhancements ##
-    * Links to superhero API and other related sites  
+    * Links to superhero API and other related sites 
+    * Add JS to call correct Super Hero or Villain 
     * Improve responsiveness and dynamic design  
     * Add more data from the API to the page  
-    * Have a landing page and then a link to another page that has the info  
+    * Add landing page and supplemental pages 
