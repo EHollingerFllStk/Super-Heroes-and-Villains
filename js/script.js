@@ -37,6 +37,7 @@ function handleGetData(event) {
 
     $.ajax(`https://superheroapi.com/api.php/10159819421940743/search/${userInput}`).then(
         function (data) {
+            console.log(data)
             $name.text(data.results[0].name)
             $combat.text(data.results[0].powerstats.combat)
             $durability.text(data.results[0].powerstats.durability)
