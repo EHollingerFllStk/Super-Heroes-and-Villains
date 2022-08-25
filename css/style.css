@@ -14,7 +14,7 @@ input {
 }
 
 .top-container {
-    display:flex;
+    display: flex;
     flex-direction: column;
     text-align: center;
 }
@@ -27,10 +27,10 @@ input {
     padding: 50px;
     margin-left: 60px;
     margin-right: 500px;
-    max-width:500px;
+    max-width: 500px;
 }
 
-.right-container{
+.right-container {
     font-size: 28px;
     display: flex;
     text-align: left;
@@ -39,7 +39,7 @@ input {
     align-content: flex-end;
     padding: 50px;
     max-width: 300px;
-    margin: auto 00px;
+    margin: auto;
     position: absolute;
     top: 180px;
     right: 200px;
@@ -64,23 +64,23 @@ img {
 
 @media only screen and (max-width: 1100px) {
     body {
-      flex-direction: column;
-      display: flex;
-      justify-content: center;
-      margin: auto;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        margin: auto;
     }
 
     .right-container {
-        display:flex;
+        display: flex;
         justify-content: center;
         position: relative;
         padding: 0;
         margin: -200px 0 0 600px;
     }
-  }
+}
 
 
-  .btn1 {
+.btn1 {
     background: #2980b9;
     background-image: -webkit-linear-gradient(top, #2980b9, #ffffff);
     background-image: -moz-linear-gradient(top, #2980b9, #ffffff);
@@ -95,9 +95,9 @@ img {
     font-size: 20px;
     padding: 4px 20px 5px 20px;
     text-decoration: none;
-  }
-  
-  .btn1:hover {
+}
+
+.btn1:hover {
     background: #dde9f0;
     background-image: -webkit-linear-gradient(top, #dde9f0, #dde9f0);
     background-image: -moz-linear-gradient(top, #dde9f0, #dde9f0);
@@ -105,9 +105,9 @@ img {
     background-image: -o-linear-gradient(top, #dde9f0, #dde9f0);
     background-image: linear-gradient(to bottom, #dde9f0, #dde9f0);
     text-decoration: none;
-  }
+}
 
-  .btn2 {
+.btn2 {
     background: #cfdee8;
     background-image: -webkit-linear-gradient(top, #cfdee8, #ffffff);
     background-image: -moz-linear-gradient(top, #cfdee8, #ffffff);
@@ -123,4 +123,4 @@ img {
     padding: 4px 20px 5px 20px;
     border: solid #1f628d 3px;
     text-decoration: none;
-  }
+}
