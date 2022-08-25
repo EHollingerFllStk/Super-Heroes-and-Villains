@@ -5,7 +5,7 @@ console.log("connected")
 //////Assign Variables///////
 
 // const URL = 'https://superheroapi.com/api/10159819421940743/245/powerstats'
-    
+
 // console.log(URL)
 
 ///CACHED ELEMENTS/ELEMNTS REFERENCES////
