@@ -43,6 +43,10 @@ HTML
 CSS  
 
 ## Hall of Justice ##
+***
+Image of original wireframe:  
+![Image of original wireframe](images/wireframe.jpeg)
+***
 Image of input box and Submit:  
 ![Image of input box and Submit](images/Screen%20Shot%202022-08-25%20at%2011.14.30%20AM.png)  
 ***
@@ -56,10 +60,9 @@ Image of site after call from API:
 ![Image of site after call from API](images/Screen%20Shot%202022-08-25%20at%2011.16.35%20AM.png)  
 ***
 Image of image data from API:
-![Image of image data from API](images/Screen%20Shot%202022-08-25%20at%2011.19.52%20AM.png)
+![Image data from API](images/Screen%20Shot%202022-08-25%20at%2011.19.52%20AM.png)
 ***
-Image of original wireframe:  
-![Image of original wireframe](images/wireframe.jpeg)
+
 ***
   
 # Getting Started #  
