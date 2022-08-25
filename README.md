@@ -4,7 +4,7 @@ This app returns an image and powerstats of the selected Super Hero or Villain
 
 ## Background of Super Heroes ##
 
--The term "Super Hero" is trademarked and owned by D comics and Marvel Comics
+-The term "Super Hero" is trademarked and owned by DC comics and Marvel Comics
 +The World's Most Popular Superheroes:  
        
        *Spider-Man (5,100,000 average monthly Google searches)   
@@ -33,3 +33,11 @@ First "comic" ever published: "Yellow Kid McFadden" (1897)
 ![image](https://user-images.githubusercontent.com/111613075/186681968-9454841d-8377-4624-bf04-176f916ae7d5.png)
 
 https://www.illustrationhistory.org/genres/comics-comic-books
+
+
+## Technologies Used ##
+AJAX  
+jQuery  
+JavaScript  
+HTML  
+CSS  
